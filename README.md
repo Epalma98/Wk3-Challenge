@@ -15,7 +15,7 @@ I was given starter code that included the finished HTML, finished CSS and part 
 ## Installation
 
 Load up the webpage at:
-
+https://epalma98.github.io/wk3-Challenge/ 
 
 ## Usage
 
